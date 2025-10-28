@@ -1,2 +1,2 @@
-# my-repo-from-tflab-infra-prod
-This is my Github repository terraform who created by Terraform from Windows.
+# LAB TERRAFORM
+This prod terraform repository is for infra developers, changed by: Piscki Pratama.
